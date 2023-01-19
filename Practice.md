@@ -8,3 +8,4 @@
 1. Hallo - Hola
 2. Hallo, auch!) - Hola, tambien!)
 3. Спасибо!
+4. Всем спасибо, все свободны!
