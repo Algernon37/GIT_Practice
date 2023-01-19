@@ -8,5 +8,6 @@
 1. Hallo - Hola
 2. Hallo, auch!) - Hola, tambien!)
 3. Спасибо!
+
 Всем спасибо, все свободны!
 Auf Wiedersehen.
