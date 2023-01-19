@@ -9,4 +9,4 @@
 2. Hallo, auch!) - Hola, tambien!)
 3. Спасибо!
 Всем спасибо, все свободны!
-Auf Wiedersehen
+Auf Wiedersehen.
